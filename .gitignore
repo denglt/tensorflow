@@ -1,3 +1,9 @@
+*.bak
+MNIST_data/
+__pycache__/
+
+
+
 # Compiled class file
 *.class
 
@@ -11,7 +17,6 @@
 # Log file
 *.log
 
-*.bak
 
 # BlueJ files
 *.ctxt
